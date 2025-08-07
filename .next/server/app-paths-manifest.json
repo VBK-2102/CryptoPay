@@ -1,0 +1,8 @@
+{
+  "/api/crypto/live-prices/route": "app/api/crypto/live-prices/route.js",
+  "/api/crypto/wallet-balances/route": "app/api/crypto/wallet-balances/route.js",
+  "/api/transactions/route": "app/api/transactions/route.js",
+  "/api/wallet/balances/route": "app/api/wallet/balances/route.js",
+  "/api/auth/login/route": "app/api/auth/login/route.js",
+  "/page": "app/page.js"
+}
